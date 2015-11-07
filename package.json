@@ -1,0 +1,11 @@
+{
+  "name": "checkbox-extender",
+  "version": "1.0.0",
+  "description": "a browserify transform that appends svg components so that checkboxes may show up with custom styles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
